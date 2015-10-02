@@ -5,6 +5,8 @@ It has quite a fair number of use cases, however it's especially useful for diag
 
 ![Screenshot](http://i.imgur.com/BBdNLil.png "PingVis Screenshot")
 
+You can exit **PingVis** at any time by pressing the X button in the top right corner, `ESC`, `Q` or `CTRL + C` in terminal.
+
 ###Requirements
 * Python 2.7
 * PyGame
