@@ -1,7 +1,7 @@
 #PingVis
 **PingVis** is a simple python script for visualizing ping.
 
-It has quite a fair number of use cases, however it's especially useful for diagnosing issues in strongly Wi-Fi saturated areas causing intermittent ping spikes.
+It has quite a fair number of use cases, however it's especially useful for diagnosing issues in areas with heavy Wi-Fi saturation that causes intermittent ping spikes.
 
 ![Screenshot](http://i.imgur.com/BBdNLil.png "PingVis Screenshot")
 
