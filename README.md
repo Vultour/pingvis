@@ -18,7 +18,7 @@ You can exit **PingVis** at any time by pressing the X button in the top right c
 
 `--help` - Prints the available command line switches and exits
 
-`--address <IP>` - Specifies the IP address that is going to be pinged. *This can even be a domain name or anything else that `/bin/ping` accepts*
+`--address <IP>` - Specifies the IP address that is going to be pinged. *This can even be a hostname or anything else that `/bin/ping` accepts*
 
 `--interval <float>` - Minimal number of seconds that will pass between each ping. This will ideally be a fraction of a second for real-time ping status. Default is 0.1. *Please note that each call to `getPing()` will block for the duration of it's execution, therefore it is highly likely that the resulting refresh interval will be higher if the ping takes too long. It is however guaranteed that the program will wait at least this long between pings.*
 
